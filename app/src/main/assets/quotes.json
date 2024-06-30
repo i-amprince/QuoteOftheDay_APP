@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison",
+    "isLiked": 0
+  },
+  {
+    "id": 2,
+    "text": "You can observe a lot just by watching.",
+    "author": "Yogi Berra",
+    "isLiked": 0
+  },
+  {
+    "id": 3,
+    "text": "A house divided against itself cannot stand.",
+    "author": "Abraham Lincoln",
+    "isLiked": 0
+  },
+  {
+    "id": 4,
+    "text": "Difficulties increase the nearer we get to the goal.",
+    "author": "Johann Wolfgang von Goethe",
+    "isLiked": 0
+  },
+  {
+    "id": 5,
+    "text": "Fate is in your hands and no one else's",
+    "author": "Byron Pulsifer",
+    "isLiked": 0
+  },
+  {
+    "id": 6,
+    "text": "Be the chief but never the lord.",
+    "author": "Lao Tzu",
+    "isLiked": 0
+  },
+  {
+    "id": 7,
+    "text": "Nothing happens unless first we dream.",
+    "author": "Carl Sandburg",
+    "isLiked": 0
+  },
+  {
+    "id": 8,
+    "text": "Well begun is half done.",
+    "author": "Aristotle",
+    "isLiked": 0
+  },
+  {
+    "id": 9,
+    "text": "Life is a learning experience, only if you learn.",
+    "author": "Yogi Berra",
+    "isLiked": 0
+  },
+  {
+    "id": 10,
+    "text": "Self-complacency is fatal to progress.",
+    "author": "Margaret Sangster",
+    "isLiked": 0
+  },
+  {
+    "id": 11,
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha",
+    "isLiked": 0
+  },
+  {
+    "id": 12,
+    "text": "What you give is what you get.",
+    "author": "Byron Pulsifer",
+    "isLiked": 0
+  },
+  {
+    "id": 13,
+    "text": "We can only learn to love by loving.",
+    "author": "Iris Murdoch",
+    "isLiked": 0
+  },
+  {
+    "id": 14,
+    "text": "Life is change. Growth is optional. Choose wisely.",
+    "author": "Karen Clark",
+    "isLiked": 0
+  },
+  {
+    "id": 15,
+    "text": "You'll see it when you believe it.",
+    "author": "Wayne Dyer",
+    "isLiked": 0
+  },
+  {
+    "id": 16,
+    "text": "Today is the tomorrow we worried about yesterday.",
+    "author": "Unknown",
+    "isLiked": 0
+  }
+]
